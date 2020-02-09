@@ -16,5 +16,5 @@ Lectures:
 [Quiz 1](https://forms.gle/2Gjgq1ot1dFhQsNZ7) due on **Feb 10th**, 9am Moscow time. 
 
 ### Task 0. PyTorch intro
-Github Classroom [invitation link](https://classroom.github.com/a/lU_lW_7H). Due on **Feb 18th** MST. 
+Github Classroom [invitation link](https://classroom.github.com/a/lU_lW_7H). Due on **Feb 18th**, 00:00 MST. 
 
