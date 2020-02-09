@@ -1,4 +1,4 @@
-# "DL in NLP" by iPavlov. Spring 2020
+# "DL in NLP" by DeepPavlov. Spring 2020
 
 The course is held in Russian. Main platform is [this Telegram channel](https://t.me/dlinnlp2020spring). Lead by **Alex Sorokin** (@alexeysorokin89) & **Vasiliy Konovalov** (@letmypeoplego), both affiliated with MIPT. Supported by [OpenDataScience](https://ods.ai/), unoffical discussions are held in the **#class_cs224n** Slack channel. 
 
