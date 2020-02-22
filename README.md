@@ -11,6 +11,8 @@ The course is held in Russian. Main platform is [this Telegram channel](https://
 ## Main links
 - cs224n lectures 2019, [playlist](https://tinyurl.com/y35bo9mb)
 - Telegram [channel](https://t.me/dlinnlp2020spring) "DL in NLP Spring 2020"
+- DeepPavlov [forum](https://forum.deeppavlov.ai/t/about-the-deep-learning-in-nlp-2020-spring-category/319)
+- Task grading [FAQ](https://docs.google.com/document/d/15GhxWhmzXx1HZt7-8jUPvOq68nHma7vU7__HGgpUxWk/edit?usp=sharing)
 
 ## Week 1. Word2vec & PyTorch intro
 1. **Lectures:**
@@ -21,7 +23,7 @@ The course is held in Russian. Main platform is [this Telegram channel](https://
 
 ## Week 2. Word embeddings 
 1. **Materials:**
-   - CS231n [lecture](https://youtu.be/i94OvYb6noo)
+   - cs231n [lecture](https://youtu.be/i94OvYb6noo)
    - FastText [paper](https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00051)
    - GloVe [paper](https://www.aclweb.org/anthology/D14-1162.pdf)
    - cs224n [lecture](https://youtu.be/ASn7ExxLZws) on GloVe by Richard Socher (2nd author)
@@ -29,4 +31,9 @@ The course is held in Russian. Main platform is [this Telegram channel](https://
 2. **[Quiz 2](https://forms.gle/1kUsvhcmNt7hXsRh7)** due on **Feb 17th**, 9am Moscow time. 
 3. **Practical task 2.** Studying word embeddings and implemeting word2vec. Github Classroom [invitation link](https://classroom.github.com/a/SvJ6u-QK). Due on **Feb 24th**, 23:59 MST. 
 
+## Week 3. Basics of neural networks
+1. **Materials:**
+   - cs231n [lecture](https://www.youtube.com/watch?v=gYpoJMlgyXA)
+   - cs231n lecture notes: [part 1](http://cs231n.github.io/neural-networks-1/) and [part 2](http://cs231n.github.io/neural-networks-2/)
+2. **[Quiz 3](https://forms.gle/zyxKGxpwLi3FANE16)** due on **Feb 24th**, 9am Moscow time. 
 
