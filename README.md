@@ -29,7 +29,7 @@ The course is held in Russian. Main platform is [this Telegram channel](https://
    - cs224n [lecture](https://youtu.be/ASn7ExxLZws) on GloVe by Richard Socher (2nd author)
    - a [lecture](https://youtu.be/CHcExDsDeHU) on FastText by Facebook
 2. **[Quiz 2](https://forms.gle/1kUsvhcmNt7hXsRh7)** due on **Feb 17th**, 9am Moscow time. 
-3. **Practical task 2.** Studying word embeddings and implemeting word2vec. Github Classroom [invitation link](https://classroom.github.com/a/SvJ6u-QK). Due on **Feb 24th**, 23:59 MST. 
+3. **Practical task 2.** Studying word embeddings and implemeting word2vec. Github Classroom [invitation link](https://classroom.github.com/a/SvJ6u-QK). Due on **Feb 26th** (extended), 23:59 MST. 
 
 ## Week 3. Basics of neural networks
 1. **Materials:**
