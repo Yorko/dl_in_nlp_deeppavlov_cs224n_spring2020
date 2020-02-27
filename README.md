@@ -36,4 +36,4 @@ The course is held in Russian. Main platform is [this Telegram channel](https://
    - cs231n [lecture](https://www.youtube.com/watch?v=gYpoJMlgyXA)
    - cs231n lecture notes: [part 1](http://cs231n.github.io/neural-networks-1/) and [part 2](http://cs231n.github.io/neural-networks-2/)
 2. **[Quiz 3](https://forms.gle/zyxKGxpwLi3FANE16)** due on **Feb 24th**, 9am Moscow time. 
-
+3. **[Quiz 4](https://forms.gle/zyxKGxpwLi3FANE16)** due on **March 2nd**, 9am Moscow time. 
