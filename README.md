@@ -37,3 +37,12 @@ The course is held in Russian. Main platform is [this Telegram channel](https://
    - cs231n lecture notes: [part 1](http://cs231n.github.io/neural-networks-1/) and [part 2](http://cs231n.github.io/neural-networks-2/)
 2. **[Quiz 3](https://forms.gle/zyxKGxpwLi3FANE16)** due on **Feb 24th**, 9am Moscow time. 
 3. **[Quiz 4](https://docs.google.com/forms/d/e/1FAIpQLSdb85H3qmMgDyjHg4ohQaGVj5AAmRO3cHQPAa9d-vYGtcoolQ/viewform)** due on **March 2nd**, 9am Moscow time. 
+
+## Week 4. RNNs and language models
+1. **Materials:**
+ - cs231n [lecture](https://youtu.be/iWea12EAu6U)
+ - cs231n [lecture notes](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes05-LM_RNN.pdf)
+2. **[Quiz 5](https://docs.google.com/forms/d/e/1FAIpQLSdb85H3qmMgDyjHg4ohQaGVj5AAmRO3cHQPAa9d-vYGtcoolQ/viewform)** (looks like authors' mistake, shows "Quiz 4") due on **March 9th**, 9am Moscow time. 
+
+
+
