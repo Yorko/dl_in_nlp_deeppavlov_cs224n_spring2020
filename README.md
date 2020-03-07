@@ -40,8 +40,9 @@ The course is held in Russian. Main platform is [this Telegram channel](https://
 
 ## Week 4. RNNs and language models
 1. **Materials:**
- - cs231n [lecture](https://youtu.be/iWea12EAu6U)
- - cs231n [lecture notes](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes05-LM_RNN.pdf)
+  - cs231n [lecture](https://youtu.be/iWea12EAu6U)
+  - cs231n [lecture notes](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes05-LM_RNN.pdf)
+  - [lecture](https://drive.google.com/open?id=1hUfNtrxxAHNrvSsCKTs-p59J_7P-BGa1) on ngram models
 2. **[Quiz 5](https://docs.google.com/forms/d/e/1FAIpQLSdb85H3qmMgDyjHg4ohQaGVj5AAmRO3cHQPAa9d-vYGtcoolQ/viewform)** (looks like authors' mistake, shows "Quiz 4") due on **March 9th**, 9am Moscow time. 
 
 
