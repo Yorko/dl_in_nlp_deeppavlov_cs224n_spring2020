@@ -10,6 +10,7 @@ The course is held in Russian. Main platform is [this Telegram channel](https://
 
 ## Main links
 - cs224n lectures 2019, [playlist](https://tinyurl.com/y35bo9mb)
+- cs224n [lecture notes](http://web.stanford.edu/class/cs224n/readings/)
 - Lectures and seminars by DeepPavlov, [playlist](https://www.youtube.com/watch?v=Zep_gaUiZFM&list=PLt1IfGj6-_-eLbx1kGtFxU53aRyPkctPq) :ru:
 - Telegram [channel](https://t.me/dlinnlp2020spring) "DL in NLP Spring 2020" :ru:
 - DeepPavlov [forum](https://forum.deeppavlov.ai/t/about-the-deep-learning-in-nlp-2020-spring-category/319) :ru:
