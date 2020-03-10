@@ -28,6 +28,7 @@ The course is held in Russian. Main platform is [this Telegram channel](https://
 1. **Materials:**
 
    - cs231n [lecture](https://youtu.be/i94OvYb6noo)
+   - cs224n [lecture notes](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes01-wordvecs1.pdf)
    - FastText [paper](https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00051)
    - GloVe [paper](https://www.aclweb.org/anthology/D14-1162.pdf)
    - cs224n [lecture](https://youtu.be/ASn7ExxLZws) on GloVe by Richard Socher (2nd author)
