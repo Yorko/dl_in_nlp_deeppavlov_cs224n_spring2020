@@ -9,6 +9,7 @@
 The course is held in Russian. Main platform is [this Telegram channel](https://t.me/dlinnlp2020spring). Lead by **Alex Sorokin** (@alexeysorokin89) & **Vasiliy Konovalov** (@letmypeoplego), both affiliated with MIPT. Supported by [OpenDataScience](https://ods.ai/), unoffical discussions are held in the **#class_cs224n** Slack channel. 
 
 ## Main links
+- official [course repository](https://github.com/deep-nlp-spring-2020/deep-nlp)
 - cs224n lectures 2019, [playlist](https://tinyurl.com/y35bo9mb)
 - cs224n [lecture notes](http://web.stanford.edu/class/cs224n/readings/)
 - Lectures and seminars by DeepPavlov, [playlist](https://www.youtube.com/watch?v=Zep_gaUiZFM&list=PLt1IfGj6-_-eLbx1kGtFxU53aRyPkctPq) :ru:
