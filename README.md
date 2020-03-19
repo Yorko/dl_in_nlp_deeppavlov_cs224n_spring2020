@@ -57,5 +57,5 @@ The course is held in Russian. Main platform is [this Telegram channel](https://
 3. **[Quiz 6]( https://forms.gle/B1A9sjVthfSLFbKF8)** due on **March 17th**, 10am Moscow time.
 
 
-
+Now that the [official course repo](https://github.com/deep-nlp-spring-2020/deep-nlp) is constantly updated, better to follow that one. 
 
