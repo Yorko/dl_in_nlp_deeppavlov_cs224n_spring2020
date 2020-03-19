@@ -32,8 +32,8 @@ The course is held in Russian. Main platform is [this Telegram channel](https://
     - A particuliarly good tutorial on word2vec by Chris McCormick: [part1](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/), [part2](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/)
 2. **[Quiz 1](https://forms.gle/2Gjgq1ot1dFhQsNZ7)** due on **Feb 10th**, 9am Moscow time. 
 3. **[Quiz 2](https://forms.gle/1kUsvhcmNt7hXsRh7)** due on **Feb 17th**, 9am Moscow time. 
-3. **Practical task 1.** Github Classroom [invitation link](https://classroom.github.com/a/lU_lW_7H). Due on **Feb 18th**, 00:00 MST. 
-4. **Practical task 2.** Studying word embeddings and implemeting word2vec. Github Classroom [invitation link](https://classroom.github.com/a/SvJ6u-QK). Due on **Feb 26th** (extended), 23:59 MST. 
+3. ** Assignment 1.** Github Classroom [invitation link](https://classroom.github.com/a/lU_lW_7H). Due on **Feb 18th**, 00:00 MST. 
+4. **Assignment 2.** Studying word embeddings and implemeting word2vec. Github Classroom [invitation link](https://classroom.github.com/a/SvJ6u-QK). Due on **March 20th** (extended), 23:59 Moscow time. 
 
 ## Weeks 2-4. Basics of neural networks
 1. **Materials:**
@@ -57,5 +57,5 @@ The course is held in Russian. Main platform is [this Telegram channel](https://
 3. **[Quiz 6]( https://forms.gle/B1A9sjVthfSLFbKF8)** due on **March 17th**, 10am Moscow time.
 
 
-Now that the [official course repo](https://github.com/deep-nlp-spring-2020/deep-nlp) is constantly updated, better to follow that one. 
+**Now that the [official course repo](https://github.com/deep-nlp-spring-2020/deep-nlp) is constantly updated, better to follow that one.**
 
