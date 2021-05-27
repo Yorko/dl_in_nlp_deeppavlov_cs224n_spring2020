@@ -1,0 +1,2 @@
+const secret = "My secret"
+
